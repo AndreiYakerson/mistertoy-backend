@@ -1,0 +1,146 @@
+10.9.2025, 9:16:09 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 9:16:53 - DEBUG - auth.service - login with username: cc
+10.9.2025, 9:16:55 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+10.9.2025, 17:16:45 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 17:17:56 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 17:45:17 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 17:53:41 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 17:54:39 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 17:55:56 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:00:23 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:01:40 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:06:46 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:06:51 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:06:51 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:06:55 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:06:55 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:33 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:15:39 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:39 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:43 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:43 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:47 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:47 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:57 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:15:57 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:16:04 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:16:04 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:16:53 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:16:55 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:16:55 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:17:20 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:17:20 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:17:44 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:17:44 - ERROR - Cannot load toys | ReferenceError: sortCriteria is not defined
+10.9.2025, 18:18:54 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:21:09 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:25:02 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:30:43 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:32:24 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:32:51 - DEBUG - auth.service - login with username: cc
+10.9.2025, 18:32:51 - INFO - User login:  | {"_id":"67a8c0995cc37ad936bf25de","username":"cc","fullname":"cc","isAdmin":false}
+10.9.2025, 18:33:04 - DEBUG - auth.service - login with username: bob
+10.9.2025, 18:33:04 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+10.9.2025, 18:33:57 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:37:53 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:54:15 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:56:13 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:56:43 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 18:58:17 - DEBUG - auth.service - login with username: bob
+10.9.2025, 18:58:18 - INFO - User login:  | {"_id":"66b4d9691fb12d86566a8f32","username":"bob","fullname":"bob","isAdmin":true,"score":0}
+10.9.2025, 19:02:48 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 19:03:43 - INFO - Server listening on port http://127.0.0.1:3030/
+10.9.2025, 19:08:42 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 17:52:02 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 18:00:00 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 18:06:24 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 18:06:57 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 18:07:56 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 18:12:54 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 18:13:35 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 19:15:45 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 22:58:50 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 22:58:50 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 22:59:09 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 22:59:09 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 22:59:47 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 22:59:47 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 23:03:18 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 23:03:18 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 23:08:50 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 23:08:50 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 23:35:51 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 23:35:51 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 23:35:57 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 23:35:57 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 23:36:04 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+12.9.2025, 23:36:04 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+12.9.2025, 23:42:38 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:43:28 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:45:24 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:45:25 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:45:25 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:45:26 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:45:26 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:46:36 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:46:36 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:46:36 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:46:36 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:46:56 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:47:00 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:00 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:00 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:00 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:55 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:55 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:55 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:47:55 - ERROR - Cannot load toys | ReferenceError: filterBy is not defined
+12.9.2025, 23:48:06 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:48:08 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:48:08 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:48:08 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:48:08 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:07 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:07 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:07 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:07 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:51 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:51 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:52 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:49:52 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+12.9.2025, 23:50:00 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:52:31 - INFO - Server listening on port http://127.0.0.1:3030/
+12.9.2025, 23:59:18 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 0:01:14 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 0:02:45 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+13.9.2025, 0:02:45 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+13.9.2025, 0:03:28 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+13.9.2025, 0:03:28 - ERROR - while finding toy 7st38 | BSONError: hex string must be 24 characters
+13.9.2025, 17:15:15 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:15:51 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:19:10 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:20:41 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:20:46 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:21:24 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:21:32 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:22:39 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:23:47 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:31:31 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:31:39 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:31:47 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:34:27 - ERROR - cannot remove toy SEsab | BSONError: hex string must be 24 characters
+13.9.2025, 17:34:27 - ERROR - Cannot delete toy | BSONError: hex string must be 24 characters
+13.9.2025, 17:34:36 - ERROR - while finding toy SEsab | BSONError: hex string must be 24 characters
+13.9.2025, 17:34:36 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+13.9.2025, 17:46:36 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:47:06 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:47:13 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:49:01 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:49:14 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:49:58 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:50:01 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+13.9.2025, 17:50:01 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+13.9.2025, 17:50:01 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+13.9.2025, 17:50:01 - ERROR - Cannot load toys | ReferenceError: labels is not defined
+13.9.2025, 17:50:12 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 17:51:12 - INFO - Server listening on port http://127.0.0.1:3030/

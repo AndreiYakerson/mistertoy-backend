@@ -1,0 +1,44 @@
+
+GET http://localhost:3030/api/user
+
+###
+
+# @name getUser
+GET http://localhost:3030/api/user/66b4d9821fb12d86566a8f33
+
+###
+
+# @name addUser
+POST http://localhost:3030/api/user
+Content-Type: application/json
+
+{
+        "username": "baa",
+        "password": "aaa",
+        "fullname": "aaa",
+        "imgUrl": "https://b.b.com/123.png",
+        "isAdmin": true,
+        "credit": 100
+}
+
+###
+
+# @name updateUser
+PUT http://localhost:3030/api/user/QhDJtz
+Content-Type: application/json
+
+{
+        "_id": "QhDJtz",
+        "password": "aaa",
+        "fullname": "aaa",
+        "imgUrl": "https://a.a.com/123.png",
+        "isAdmin": true,
+        "credit": 200
+}
+
+###
+
+# @name removeUser
+DELETE http://localhost:3030/api/user/QhDJtz
+
+###

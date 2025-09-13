@@ -1,0 +1,30 @@
+# @name login
+POST http://localhost:3030/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "bob",
+  "password": "bob"
+}
+
+###
+
+# @name signup
+POST http://localhost:3030/api/auth/signup
+Content-Type: application/json
+
+{
+  "username": "gogo",
+  "password": "1234",
+  "fullname": "bob",
+  "imgUrl": "https://via.placeholder.com/150",
+  "isAdmin": true,
+  "credit": 100
+}
+
+###
+
+# @name logout
+POST http://localhost:3030/api/auth/logout
+
+###
