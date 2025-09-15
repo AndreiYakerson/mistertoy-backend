@@ -1,6 +1,17 @@
 import { loggerService } from '../../services/logger.service.js'
 import { userService } from './user.service.js'
 
+export async function addUser(req, res) {
+  try {
+    const user = req.body
+    const savedUser = await userService.add(user)
+    res.send(savedUser)
+  } catch (err) {
+    loggerService.error('Failed to add user', err)
+    res.status(500).send({ err: 'Failed to add user' })
+  }
+}
+
 export async function getUsers(req, res) {
   try {
     const users = await userService.query()

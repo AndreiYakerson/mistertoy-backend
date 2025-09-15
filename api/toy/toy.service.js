@@ -18,8 +18,6 @@ export const toyService = {
 async function query(filterBy = {}) {
   try {
     const { filterCriteria, sortCriteria, skip } = _buildCriteria(filterBy)
-    console.log(filterCriteria)
-    console.log(sortCriteria)
 
     const collection = await dbService.getCollection('toy')
     const prmTotalCount = collection.countDocuments(filterCriteria)

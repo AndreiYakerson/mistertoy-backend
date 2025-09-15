@@ -144,3 +144,138 @@
 13.9.2025, 17:50:01 - ERROR - Cannot load toys | ReferenceError: labels is not defined
 13.9.2025, 17:50:12 - INFO - Server listening on port http://127.0.0.1:3030/
 13.9.2025, 17:51:12 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:03:49 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:04:02 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:04:18 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:04:29 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:05:02 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:06:19 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 18:06:56 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 23:45:22 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 23:45:44 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 23:48:53 - INFO - Server listening on port http://127.0.0.1:3030/
+13.9.2025, 23:52:26 - DEBUG - auth.service - signup with username: asd, fullname: asd
+13.9.2025, 23:52:26 - DEBUG - auth.route - new account created: {"username":"asd","password":"$2b$10$7mSZ3V2TckzxTgxNDP//1OV0tgjEb99tSGj2hCY5R66RqU8NvFcvi","fullname":"asd","isAdmin":false,"_id":"68c5d98abb591a082f567939"}
+13.9.2025, 23:52:26 - DEBUG - auth.service - login with username: asd
+13.9.2025, 23:52:29 - DEBUG - auth.service - signup with username: asd, fullname: asd
+13.9.2025, 23:52:29 - ERROR - cannot insert user | Error: Username taken
+13.9.2025, 23:52:29 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 14:22:57 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 14:24:59 - ERROR - while finding toy login | BSONError: hex string must be 24 characters
+15.9.2025, 14:24:59 - ERROR - Cannot get toy | BSONError: hex string must be 24 characters
+15.9.2025, 14:26:04 - DEBUG - auth.service - signup with username: ckem92, fullname: Andrei Yakerson
+15.9.2025, 14:26:04 - DEBUG - auth.route - new account created: {"username":"ckem92","password":"$2b$10$D/nf2Irj5CEQ8bK776v0OO80E/cYUMt0ih7lpQzVlEQW3aEpv7F2W","fullname":"Andrei Yakerson","isAdmin":false,"_id":"68c7f7cc33d00e17b2fc94f4"}
+15.9.2025, 14:26:04 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:26:07 - DEBUG - auth.service - signup with username: ckem92, fullname: Andrei Yakerson
+15.9.2025, 14:26:07 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 14:26:07 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 14:26:25 - DEBUG - auth.service - signup with username: ckem92, fullname: Andrei Yakerson
+15.9.2025, 14:26:25 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 14:26:25 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 14:26:54 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 14:26:54 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$F/3RBELHywC3PV3tfa588.GMgbsv5tVgiBB14MR8WW6Ig.ogRrkLm","fullname":"abc","isAdmin":false,"_id":"68c7f7fe33d00e17b2fc94f5"}
+15.9.2025, 14:26:54 - DEBUG - auth.service - login with username: abc
+15.9.2025, 14:31:00 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 14:31:58 - DEBUG - auth.service - signup with username: ckem92, fullname: undefined
+15.9.2025, 14:31:58 - ERROR - Failed to signup Error: Missing details
+15.9.2025, 14:33:58 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:33:58 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 14:35:14 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:35:14 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 14:37:16 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:37:16 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 14:37:33 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:37:33 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:37:48 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:37:48 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:40:33 - DEBUG - auth.service - login with username: cek
+15.9.2025, 14:40:33 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:42:55 - DEBUG - auth.service - login with username: cek
+15.9.2025, 14:42:55 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:43:26 - DEBUG - auth.service - login with username: cek
+15.9.2025, 14:43:26 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:45:55 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:45:55 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 14:47:52 - DEBUG - auth.service - login with username: nkj
+15.9.2025, 14:47:52 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:47:56 - DEBUG - auth.service - login with username: nkj
+15.9.2025, 14:47:56 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 14:48:23 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 14:48:23 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 14:58:42 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 14:58:42 - DEBUG - auth.service - login with username: abc
+15.9.2025, 14:58:42 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$N1np6/jsOhsAPKansrlDmOVdW1pE1Rcno8hNagFyCsKZEHROCWmD.","fullname":"abc","isAdmin":false,"_id":"68c7ff725bab1cd8995d9878"}
+15.9.2025, 14:59:34 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 14:59:34 - DEBUG - auth.service - login with username: abc
+15.9.2025, 14:59:34 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$KIGLyperf/zvwTUAUg9MQeVwVDHpLgwLqq9UxFnhqqAQtHjZC7QyC","fullname":"abc","isAdmin":false,"_id":"68c7ffa65bab1cd8995d9879"}
+15.9.2025, 15:00:10 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:00:10 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:00:10 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:00:52 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:00:52 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$ABOmZnnDvPInXUO/ZdHMz.TaQ4ZAHIzFOTNbUx62L88i9o7puYt7S","fullname":"abc","isAdmin":false,"_id":"68c7fff45bab1cd8995d987a"}
+15.9.2025, 15:00:52 - DEBUG - auth.service - login with username: abc
+15.9.2025, 15:01:19 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:01:19 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 15:06:29 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:06:29 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$BsBHEYIbm.mXAC2X6.1u5OmoowyNhWiRDWXretzuL3g449Km.hb0e","fullname":"abc","isAdmin":false,"_id":"68c801455bab1cd8995d987b"}
+15.9.2025, 15:06:29 - DEBUG - auth.service - login with username: abc
+15.9.2025, 15:07:21 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:07:21 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$XFpSrtpRZ9xAAw26Is0K5OYFh3vglBp0cX3llw8rKNX2CCtnNV/yS","fullname":"abc","isAdmin":false,"_id":"68c801795bab1cd8995d987c"}
+15.9.2025, 15:07:21 - DEBUG - auth.service - login with username: abc
+15.9.2025, 15:09:07 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:09:07 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$fZEDLXU5wR6da3SfkbkBs.oVD4sNtL8slYu3wRpsQPq6li3EiVrp2","fullname":"abc","isAdmin":false,"_id":"68c801e35bab1cd8995d987d"}
+15.9.2025, 15:09:07 - DEBUG - auth.service - login with username: abc
+15.9.2025, 15:10:21 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:10:21 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:10:21 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:11:13 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:11:13 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:11:13 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:11:27 - DEBUG - auth.service - signup with username: aaa, fullname: aaa
+15.9.2025, 15:11:27 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$aLM4.v1iHpAHakNzOWfmZudMREqaIMaNnYeOTVJTVx8s9t2xIn0FO","fullname":"aaa","isAdmin":false,"_id":"68c8026f5bab1cd8995d987e"}
+15.9.2025, 15:11:27 - DEBUG - auth.service - login with username: aaa
+15.9.2025, 15:11:48 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:11:48 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":false}
+15.9.2025, 15:12:26 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:12:26 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:16:34 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:16:34 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:23:28 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:23:29 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:34:01 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:34:01 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:34:16 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:34:17 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:34:17 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:35:46 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:35:46 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:35:46 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:35:50 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:35:50 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:35:50 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:37:55 - DEBUG - auth.service - signup with username: abc, fullname: abc
+15.9.2025, 15:37:55 - ERROR - cannot insert user | Error: Username taken
+15.9.2025, 15:37:55 - ERROR - Failed to signup Error: Username taken
+15.9.2025, 15:38:15 - DEBUG - auth.service - login with username: abc
+15.9.2025, 15:38:15 - INFO - User login:  | {"_id":"68c801e35bab1cd8995d987d","username":"abc","fullname":"abc","isAdmin":false}
+15.9.2025, 15:38:30 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:38:30 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:40:52 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:40:52 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:41:35 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:41:36 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:42:00 - DEBUG - auth.service - login with username: ccc
+15.9.2025, 15:42:00 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 15:43:13 - DEBUG - auth.service - login with username: ccc
+15.9.2025, 15:43:13 - ERROR - Failed to Login Error: Invalid username or password
+15.9.2025, 15:43:33 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:43:34 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:43:49 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:43:49 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:45:04 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:45:04 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 15:48:52 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 15:48:54 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 15:49:01 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 15:49:39 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 15:49:57 - INFO - Server listening on port http://127.0.0.1:3030/
