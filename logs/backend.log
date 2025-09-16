@@ -279,3 +279,79 @@
 15.9.2025, 15:49:01 - INFO - Server listening on port http://127.0.0.1:3030/
 15.9.2025, 15:49:39 - INFO - Server listening on port http://127.0.0.1:3030/
 15.9.2025, 15:49:57 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 15:52:00 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 15:52:00 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+15.9.2025, 22:11:57 - INFO - Server listening on port http://127.0.0.1:3030/
+15.9.2025, 22:15:49 - DEBUG - auth.service - login with username: ckem92
+15.9.2025, 22:15:49 - INFO - User login:  | {"_id":"68c7f7cc33d00e17b2fc94f4","username":"ckem92","fullname":"Andrei Yakerson","isAdmin":true}
+16.9.2025, 22:32:46 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 22:39:42 - DEBUG - auth.service - signup with username: aaa, fullname: aaa
+16.9.2025, 22:39:42 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$hMet04Fd6t7cll/V3pIoveY29Nsnr5dmN4pwzIE0ql/FGNvgrRRgW","fullname":"aaa","isAdmin":false,"_id":"68c9bcfe0baefe0ac8d66574"}
+16.9.2025, 22:39:42 - DEBUG - auth.service - login with username: aaa
+16.9.2025, 22:44:42 - DEBUG - auth.service - signup with username: www, fullname: www
+16.9.2025, 22:44:42 - DEBUG - auth.route - new account created: {"username":"www","password":"$2b$10$6TjoIe8ZwhcUyssCevzZguiJdyHehc9DziJS4SByTFkgFkvZsJWiO","fullname":"www","isAdmin":false,"_id":"68c9be2a0baefe0ac8d66575"}
+16.9.2025, 22:44:42 - DEBUG - auth.service - login with username: www
+16.9.2025, 22:52:13 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 22:52:13 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 22:52:30 - DEBUG - auth.service - signup with username: vvv, fullname: vvv
+16.9.2025, 22:52:30 - DEBUG - auth.route - new account created: {"username":"vvv","password":"$2b$10$cYFOQv2k12AHut8Hgkbw6uJr0UMnG/nvSPDAejHH0HjeIAUE.XwTW","fullname":"vvv","isAdmin":false,"_id":"68c9bffe0baefe0ac8d66576"}
+16.9.2025, 22:52:30 - DEBUG - auth.service - login with username: vvv
+16.9.2025, 22:53:48 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 22:53:48 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 22:54:47 - DEBUG - auth.service - signup with username: mmm, fullname: mmm
+16.9.2025, 22:54:47 - DEBUG - auth.route - new account created: {"username":"mmm","password":"$2b$10$piyJ6YSQ4G3M8X3tviNMbO7lHoApGI5I3Vtz4GOH8XkjScbn2EyVO","fullname":"mmm","isAdmin":false,"_id":"68c9c0870baefe0ac8d66577"}
+16.9.2025, 22:54:47 - DEBUG - auth.service - login with username: mmm
+16.9.2025, 22:56:27 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 22:57:02 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 22:57:58 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 22:58:23 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 22:58:23 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 22:58:30 - DEBUG - auth.service - signup with username: jjj, fullname: jjj
+16.9.2025, 22:58:30 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 22:59:04 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 22:59:04 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:01:47 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 23:01:53 - DEBUG - auth.service - signup with username: bca, fullname: bca
+16.9.2025, 23:01:53 - DEBUG - auth.route - new account created: {"username":"bca","password":"$2b$10$IVWjVPSKJ22m2Mhjm6WhBOkHmEAe5RvgFv2D79ypr93QE6zCoGXPC","fullname":"bca","isAdmin":false,"_id":"68c9c231aefe030c1ce00473"}
+16.9.2025, 23:01:53 - DEBUG - auth.service - login with username: bca
+16.9.2025, 23:02:36 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 23:04:12 - INFO - Server listening on port http://127.0.0.1:3030/
+16.9.2025, 23:04:47 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:04:47 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:04:57 - DEBUG - auth.service - signup with username: anna, fullname: Anna Yakerson
+16.9.2025, 23:04:58 - DEBUG - auth.route - new account created: {"username":"anna","password":"$2b$10$7vKIqpYC4MMMM7EIwqAJe.lRbHWUzbaYUs1wixuG2Y0EkmtVrlWXq","fullname":"Anna Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758053082/yvc7lrt0acnbynr0xnbw.jpg","isAdmin":false,"_id":"68c9c2ea81cd428bdc8f9585"}
+16.9.2025, 23:04:58 - DEBUG - auth.service - login with username: anna
+16.9.2025, 23:06:28 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:06:28 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:09:34 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:09:34 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:10:31 - DEBUG - auth.service - signup with username: lol, fullname: lol
+16.9.2025, 23:10:31 - DEBUG - auth.route - new account created: {"username":"lol","password":"$2b$10$14C2R8gDfPlNVVw6RrC8lOBVhKh30pOz7TAQ511mxwJsZQHD9xdQe","fullname":"lol","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758053370/d0lqoxdrhmcwvcml4eaz.jpg","isAdmin":false,"_id":"68c9c43781cd428bdc8f9586"}
+16.9.2025, 23:10:31 - DEBUG - auth.service - login with username: lol
+16.9.2025, 23:11:06 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:11:06 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:12:22 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:12:22 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:17:05 - DEBUG - auth.service - signup with username: rer, fullname: rer
+16.9.2025, 23:17:05 - DEBUG - auth.route - new account created: {"username":"rer","password":"$2b$10$LW/GZ5djh1q.Fs45ICdtnuBFszPzFRZj67QehO6PaL63vfrZhfhw6","fullname":"rer","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758053540/aj4xn5zokf0ynjtpabvw.jpg","isAdmin":false,"_id":"68c9c5c181cd428bdc8f9587"}
+16.9.2025, 23:17:05 - DEBUG - auth.service - login with username: rer
+16.9.2025, 23:17:58 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:17:58 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:18:41 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+16.9.2025, 23:18:41 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:18:54 - DEBUG - auth.service - signup with username: ttt, fullname: ttt
+16.9.2025, 23:18:54 - DEBUG - auth.service - login with username: ttt
+16.9.2025, 23:18:54 - DEBUG - auth.route - new account created: {"username":"ttt","password":"$2b$10$Ap8oN.8BMKlBsYZXcuIXq.67BqYBKKbWc0fBG5rDk4C3/qz2hTBe6","fullname":"ttt","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758053918/ndnc9jb97owqowzxhtft.jpg","isAdmin":false,"_id":"68c9c62e81cd428bdc8f9588"}
+16.9.2025, 23:20:07 - DEBUG - auth.service - signup with username: , fullname: 
+16.9.2025, 23:20:07 - ERROR - Failed to signup Error: Missing details
+16.9.2025, 23:20:18 - DEBUG - auth.service - signup with username: zzz, fullname: zzz
+16.9.2025, 23:20:18 - DEBUG - auth.route - new account created: {"username":"zzz","password":"$2b$10$mYHdjIUq39cpIw3rZkYOP.1bUTE8K2GYXnvRoO0McPoodotrSKmv6","fullname":"zzz","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054004/byqyesbikzq53w1k0o9l.jpg","isAdmin":false,"_id":"68c9c68281cd428bdc8f9589"}
+16.9.2025, 23:20:18 - DEBUG - auth.service - login with username: zzz
+16.9.2025, 23:24:35 - DEBUG - auth.service - signup with username: kkk, fullname: kkk
+16.9.2025, 23:24:35 - DEBUG - auth.route - new account created: {"username":"kkk","password":"$2b$10$4iyfLcZYpOF230CAGAP52.q2ZECyRgIXC0bxn.dI/HrvmfLltxibm","fullname":"kkk","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054272/k2cecdthki8xp6pqs9y1.jpg","isAdmin":false,"_id":"68c9c78381cd428bdc8f958a"}
+16.9.2025, 23:24:35 - DEBUG - auth.service - login with username: kkk
+16.9.2025, 23:27:23 - DEBUG - auth.service - signup with username: ckem92, fullname: Andrei Yakerson
+16.9.2025, 23:27:23 - DEBUG - auth.route - new account created: {"username":"ckem92","password":"$2b$10$tlZD4owUPztWYcCeXSQbEees9J/vIOZO6OgUxA9y2HutStseDp1pK","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":false,"_id":"68c9c82b81cd428bdc8f958b"}
+16.9.2025, 23:27:23 - DEBUG - auth.service - login with username: ckem92
+16.9.2025, 23:34:33 - DEBUG - auth.service - login with username: ckem92
+16.9.2025, 23:34:33 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
