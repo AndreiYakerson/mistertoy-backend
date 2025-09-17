@@ -140,6 +140,12 @@ function _buildCriteria(filterBy) {
     filterCriteria.labels = { $all: filterBy.labels }
   }
 
+  if (filterBy.maxPrice) {
+    filterCriteria.price = { $lt: +filterBy.maxPrice }
+  }
+
+  console.log(filterCriteria);
+  
   const sortCriteria = {}
 
   const sortBy = filterBy.sortBy

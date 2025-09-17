@@ -2,11 +2,14 @@ import { loggerService } from '../../services/logger.service.js'
 import { toyService } from './toy.service.js'
 
 export async function getToys(req, res) {
+  console.log(req.query);
+  
   
   try {
-    const { txt, inStock, pageIdx, sortBy, labels } = req.query
+    const { txt, inStock, maxPrice, pageIdx, sortBy, labels } = req.query
     const filterBy = {
       txt: txt || '',
+      maxPrice: +maxPrice || '',
       labels: labels || [],
       inStock: inStock || null,
       pageIdx: +pageIdx || 0,

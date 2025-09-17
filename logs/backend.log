@@ -355,3 +355,28 @@
 16.9.2025, 23:27:23 - DEBUG - auth.service - login with username: ckem92
 16.9.2025, 23:34:33 - DEBUG - auth.service - login with username: ckem92
 16.9.2025, 23:34:33 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
+17.9.2025, 19:39:46 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 19:42:45 - DEBUG - auth.service - login with username: ckem92
+17.9.2025, 19:42:45 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
+17.9.2025, 19:44:15 - DEBUG - auth.service - signup with username: anna, fullname: Anna Yakerson
+17.9.2025, 19:44:15 - DEBUG - auth.route - new account created: {"username":"anna","password":"$2b$10$Pnom9vmKLG3aRILXEDhoa.trMtHWYEbpPuUn7RaUtCkxOzcdVxUqO","fullname":"Anna Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758127449/jtfbfpof15l8y613ncaz.jpg","isAdmin":false,"_id":"68cae55f297b6044504069c0"}
+17.9.2025, 19:44:15 - DEBUG - auth.service - login with username: anna
+17.9.2025, 20:11:12 - DEBUG - auth.service - login with username: anna
+17.9.2025, 20:11:12 - INFO - User login:  | {"_id":"68cae55f297b6044504069c0","username":"anna","fullname":"Anna Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758127449/jtfbfpof15l8y613ncaz.jpg","isAdmin":false}
+17.9.2025, 20:11:25 - DEBUG - auth.service - login with username: ckem92
+17.9.2025, 20:11:25 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
+17.9.2025, 20:19:40 - DEBUG - auth.service - login with username: anna
+17.9.2025, 20:19:40 - INFO - User login:  | {"_id":"68cae55f297b6044504069c0","username":"anna","fullname":"Anna Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758127449/jtfbfpof15l8y613ncaz.jpg","isAdmin":false}
+17.9.2025, 20:28:17 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:29:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:31:17 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:32:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:32:18 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:32:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:33:01 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:40:28 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:40:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:42:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:43:03 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:45:13 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 20:46:51 - INFO - Server listening on port http://127.0.0.1:3030/
