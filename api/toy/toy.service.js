@@ -3,7 +3,7 @@ import { dbService } from '../../services/db.service.js'
 import { loggerService } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
-const PAGE_SIZE = 6
+const PAGE_SIZE = Infinity
 
 export const toyService = {
   query,
@@ -23,7 +23,7 @@ async function query(filterBy = {}) {
     const prmTotalCount = collection.countDocuments(filterCriteria)
 
     const prmFilteredToys = collection
-        .find(filterCriteria, { sort: sortCriteria, skip, limit: PAGE_SIZE }).toArray()
+      .find(filterCriteria, { sort: sortCriteria, skip, limit: PAGE_SIZE }).toArray()
 
     const [totalCount, filteredToys] = await Promise.all([prmTotalCount, prmFilteredToys])
     // const filteredToys = await collection
@@ -96,10 +96,10 @@ async function update(toy) {
 
 async function addMsg(toyId, msg) {
   msg.id = utilService.makeId()
-  
+
   try {
     const collection = await dbService.getCollection('toy')
-    
+
     await collection.updateOne(
       { _id: ObjectId.createFromHexString(toyId) },
       { $push: { msgs: msg } }
@@ -144,8 +144,6 @@ function _buildCriteria(filterBy) {
     filterCriteria.price = { $lt: +filterBy.maxPrice }
   }
 
-  console.log(filterCriteria);
-  
   const sortCriteria = {}
 
   const sortBy = filterBy.sortBy
