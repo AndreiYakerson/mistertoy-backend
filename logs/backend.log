@@ -380,3 +380,35 @@
 17.9.2025, 20:43:03 - INFO - Server listening on port http://127.0.0.1:3030/
 17.9.2025, 20:45:13 - INFO - Server listening on port http://127.0.0.1:3030/
 17.9.2025, 20:46:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.9.2025, 21:11:39 - INFO - Server listening on port http://127.0.0.1:3030/
+18.9.2025, 18:39:52 - INFO - Server listening on port http://127.0.0.1:3030/
+18.9.2025, 18:40:30 - DEBUG - auth.service - login with username: ckem92
+18.9.2025, 18:40:30 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
+18.9.2025, 18:41:51 - DEBUG - auth.service - login with username: ckem92
+18.9.2025, 18:41:51 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
+18.9.2025, 18:42:55 - INFO - Server listening on port http://127.0.0.1:3030/
+18.9.2025, 18:43:04 - INFO - Server listening on port http://127.0.0.1:3030/
+18.9.2025, 18:43:13 - INFO - Server listening on port http://127.0.0.1:3030/
+18.9.2025, 18:46:24 - DEBUG - auth.service - signup with username: www, fullname: www
+18.9.2025, 18:46:24 - DEBUG - auth.service - login with username: www
+18.9.2025, 18:46:24 - DEBUG - auth.route - new account created: {"username":"www","password":"$2b$10$cqfQGT/n3zi.nnR3O8PxZ.vlic/C0PGbMVOVoPJsxs6X5CUh7dBJy","fullname":"www","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758210381/vfkv0dqnoeg7bpzr7lzz.jpg","isAdmin":false,"_id":"68cc2950f11fd4a110ccf82c"}
+19.9.2025, 11:24:09 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 11:26:02 - DEBUG - auth.service - signup with username: lll, fullname: lll
+19.9.2025, 11:26:02 - DEBUG - auth.route - new account created: {"username":"lll","password":"$2b$10$/VMYOl94W/imyzjUc6/N7uR0u.Hv.XmDoZn8DRk5TFE2k/r/sqDKW","fullname":"lll","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758270356/wj7irb07dh7ci6svg8ti.jpg","isAdmin":false,"_id":"68cd139aae42df64d68135e3"}
+19.9.2025, 11:26:02 - DEBUG - auth.service - login with username: lll
+19.9.2025, 11:27:09 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 11:27:11 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 11:28:26 - DEBUG - auth.service - login with username: ckem92
+19.9.2025, 11:28:26 - INFO - User login:  | {"_id":"68c9c82b81cd428bdc8f958b","username":"ckem92","fullname":"Andrei Yakerson","imgUrl":"https://res.cloudinary.com/daxtwwkyd/image/upload/v1758054440/q78rh7z6zx0ubf4bkt55.jpg","isAdmin":true}
+19.9.2025, 11:33:12 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 11:33:37 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 11:33:44 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:19:45 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:46:45 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:46:56 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:47:26 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:48:35 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:54:07 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:54:59 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:56:53 - INFO - Server listening on port http://127.0.0.1:3030/
+19.9.2025, 22:57:27 - INFO - Server listening on port http://127.0.0.1:3030/
